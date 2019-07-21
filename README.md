@@ -21,5 +21,6 @@
 
 **使用Pygal展示招聘信息**
 
+![Image text](https://github.com/Monarchh/ZhipinSpider_ShenZhen/blob/master/ZhipinSpider/job_position.png)
 
 参考书籍 《疯狂Python讲义》 --李刚
